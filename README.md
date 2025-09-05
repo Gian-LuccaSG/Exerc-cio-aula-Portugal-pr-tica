@@ -1,2 +1,2 @@
-# Exerc-cio-aula-Portugal-pr-tica
+# Exerc-cio-aula-Portugol-pr-tica
 Aula prática de Portugol
